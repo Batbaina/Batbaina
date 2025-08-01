@@ -39,7 +39,7 @@ I'm passionate about applying machine learning, data science, and software engin
 
 ## 📚 Conferences & Community
 
-- Speaker/Attendee: Harnessing Data Science & AI for Sustainable Development (AIMS, 2024)
+- Attendee: Harnessing Data Science & AI for Sustainable Development (AIMS, 2024)
 - Advanced ML for Earth Observation (EO College, 2024)
 - Volunteer: Orphanage assistance, Limbe Municipality public services app
 
