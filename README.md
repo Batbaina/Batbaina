@@ -14,7 +14,7 @@ I'm passionate about applying machine learning, data science, and software engin
 
 ## 🌱 Education
 
-- **Master’s in Applied Mathematics** (AIMS Cameroon, Aug 2023–Feb 2025)
+- **Master’s in Applied Mathematics (Data Science)** (AIMS Cameroon, Aug 2023–Feb 2025)
 - **Master’s in Computer Science** (University of Ngaoundéré, Feb 2023)
 - **Bachelor’s in Computer Science & Mathematics** (University of Ngaoundéré, Jun 2020)
 
