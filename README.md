@@ -48,7 +48,7 @@ I'm passionate about applying machine learning, data science, and software engin
 - **Email:** batbaina.guikoura@aims-cameroon.org
 - **LinkedIn:** [batbaina-guikoura](https://linkedin.com/in/batbaina-guikoura)
 - **GitHub:** [batbaina](https://github.com/batbaina)
-- **Portfolio:**[Batbaina Guioura](https://batbaina.numericabridge.com)
+- **Portfolio:**[Batbaina Guikoura](https://batbaina.numericabridge.com)
 
 ## ⚽ Hobbies
 
